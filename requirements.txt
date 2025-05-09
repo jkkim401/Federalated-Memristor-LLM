@@ -1,0 +1,10 @@
+torch
+transformers
+peft
+datasets
+flwr[simulation]
+bitsandbytes
+accelerate
+scikit-learn # For potential evaluation metrics
+pandas # For data handling if needed
+# Add other specific dependencies if they arise
